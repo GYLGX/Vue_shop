@@ -1,0 +1,8 @@
+html,
+body,
+#app {
+  height: 100%;
+  background-color: #4b5b6b;
+  margin: 0;
+  padding: 0;
+}
